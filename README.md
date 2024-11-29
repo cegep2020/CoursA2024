@@ -1,2 +1,2 @@
-# CoursA2024
-420-A61-SF PRÉPARATION DE LA SOLUTION D'IA POUR LA MISE EN PRODUCTION
+# cours-A61
+Préparation de la solution d'IA pour la mise en production
